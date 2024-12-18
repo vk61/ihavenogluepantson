@@ -10,6 +10,10 @@ For all these year, I have tried to take up on myself to solve the DSA problems 
 
 In many problems dealing with an array (or a LinkedList), we are asked to find or calculate something among all the contiguous subarrays (or sublists) of a given size.
 
+> [!NOTE]
+> Most of the problems asks us to find the minimum, maximum subarray or string, use sliding windows pattern.
+>
+
 1. [Maximum Sum Subarray of Size K](/sly-thin-win-those/1_max-avg-sub-arr.ipynb)
 2. [Smallest Subarray with a given sum](/sly-thin-win-those/2_min-sub-arr-given_sum.ipynb)
 3. [Longest Substring with K Distinct Characters](/sly-thin-win-those/3_max-sub-arr-k-distinct-types.ipynb)
