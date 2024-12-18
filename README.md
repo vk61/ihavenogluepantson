@@ -7,9 +7,8 @@ For all these year, I have tried to take up on myself to solve the DSA problems 
 
 
 # ✨ Sly thin win those 
-```
+
 In many problems dealing with an array (or a LinkedList), we are asked to find or calculate something among all the contiguous subarrays (or sublists) of a given size.
-```
 
 1. [Maximum Sum Subarray of Size K](/sly-thin-win-those/1_max-avg-sub-arr.ipynb)
 2. [Smallest Subarray with a given sum](/sly-thin-win-those/2_min-sub-arr-given_sum.ipynb)
@@ -24,9 +23,9 @@ In many problems dealing with an array (or a LinkedList), we are asked to find o
 ![sliding_window_jim_carrey](/img/jim_carrey_slideing_windows.gif)
 
 # 👩🏼‍🎨 Tube Painters  
-```
+
 In problems where we deal with sorted arrays (or LinkedLists) and need to find a set of elements that fulfill certain constraints, the two pointers approach becomes quite useful. The set of elements could be a pair, a triplet or even a subarray. 👁️
-```
+
 
 
 ![finger_gun_office](/img/finger_gun_office.gif)
