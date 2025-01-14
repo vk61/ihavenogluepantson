@@ -30,6 +30,7 @@ In many problems dealing with an array (or a LinkedList), we are asked to find o
 
 In problems where we deal with sorted arrays (or LinkedLists) and need to find a set of elements that fulfill certain constraints, the two pointers approach becomes quite useful. The set of elements could be a pair, a triplet or even a subarray. 👁️
 1. [Pair with Target Sum aka "Two Sum" | two-sum-ii-input-array-is-sorted ](./tube-painters/1_two_sum.ipynb)
-
+2. [Remove Duplicates](./tube-painters/2_remove_duplucates.ipynb)
+3. [Squaring a sorted array](./tube-painters/3_squares_of_sorted_arr.ipynb)
 
 ![finger_gun_office](/img/finger_gun_office.gif)
