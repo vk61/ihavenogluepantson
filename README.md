@@ -32,5 +32,26 @@ In problems where we deal with sorted arrays (or LinkedLists) and need to find a
 1. [Pair with Target Sum aka "Two Sum" | two-sum-ii-input-array-is-sorted ](./tube-painters/1_two_sum.ipynb)
 2. [Remove Duplicates](./tube-painters/2_remove_duplucates.ipynb)
 3. [Squaring a sorted array](./tube-painters/3_squares_of_sorted_arr.ipynb)
+4. [Three sum](./tube-painters/4_three_sum.ipynb)
+5. [Sub arrays less than product](./tube-painters/5_sub_arr_less_than_product.ipynb)
+6. [Dutch National Flag](./tube-painters/6_dutch_national_flag.ipynb)
+7. [Four sum](./tube-painters//7_four_sum.ipynb)
+8. [Backspace string compare](./tube-painters/8_backspace_str_cmp.ipynb)
+9. [minimum wndow sort](./tube-painters/9_min_window_sort.ipynb)
 
 ![finger_gun_office](/img/finger_gun_office.gif)
+
+# Pasta and Slow sauce Pointers ♨️
+
+The Fast & Slow pointer approach, also known as the Hare & Tortoise algorithm, is a pointer algorithm that uses two pointers which move through the array (or sequence/LinkedList) at different speeds. This approach is quite useful when dealing with cyclic LinkedLists or arrays.
+
+By moving at different speeds (say, in a cyclic LinkedList), the algorithm proves that the two pointers are bound to meet. The fast pointer should catch the slow pointer once both the pointers are in a cyclic loop.
+
+1. [Linked List cycle](./pasta-n-slow-sauce-pointers/1_linked_list_cycle.ipynb)
+2. [Happy Number](./pasta-n-slow-sauce-pointers//2_happy_number.ipynb)
+3. [Middle of Linked List](./pasta-n-slow-sauce-pointers//3_mid_linked_list.ipynb)
+4. [Palindrome Linked List](./pasta-n-slow-sauce-pointers//4_palindrome_linked_list.ipynb)
+5. [Rearrange Linked List](./pasta-n-slow-sauce-pointers//5_rearrange_linked_list.ipynb)
+6. [Cycle in Circular Array](./pasta-n-slow-sauce-pointers//6_cycle_in_circular_arr.ipynb)
+
+![pasta](/img//pasta.gif)
