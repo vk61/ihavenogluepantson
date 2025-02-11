@@ -55,3 +55,21 @@ By moving at different speeds (say, in a cyclic LinkedList), the algorithm prove
 6. [Cycle in Circular Array](./pasta-n-slow-sauce-pointers//6_cycle_in_circular_arr.ipynb)
 
 ![pasta](/img//pasta.gif)
+
+# Merge Intervals ❤️‍🩹
+This pattern describes an efficient technique to deal with overlapping intervals. In a lot of problems involving intervals, we either need to find overlapping intervals or merge intervals if they overlap.
+
+Given two intervals (a and b), there will be six different ways the two intervals can relate to each other:
+
+> 1. __a and b do not overlap__
+> 2. __a and b overlap, b ends after a__
+> 3. __a completely overlaps b__
+> 4. __a and b overlap, a ends after b__
+> 5. __b completly overlaps a__
+> 6. __a and b do not overlap__
+
+![merge](./img/mergeintervals.png)
+
+1. [Merge Intervals](./merge_intervals/1_merge_intervals.ipynb)
+
+![gudbye mike](./img//gudbye_mike.gif)
