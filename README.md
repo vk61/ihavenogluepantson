@@ -71,5 +71,26 @@ Given two intervals (a and b), there will be six different ways the two interval
 ![merge](./img/mergeintervals.png)
 
 1. [Merge Intervals](./merge_intervals/1_merge_intervals.ipynb)
+2. [Insert Intervals](./merge_intervals/2_insert_interval.ipynb)
+3. [Interval Intersection](./merge_intervals/3_interval_intersections.ipynb)
+4. [Conflicting Appointments](./merge_intervals/4_conflicting_appointments.ipynb)
+5. [Meeting Rooms](./merge_intervals/5_min_meeting_rooms.ipynb)
+6. [Car Polling](./merge_intervals/6_car_pooling.ipynb)
 
-![gudbye mike](./img//gudbye_mike.gif)
+![gudbye mike](./img/gudbye_mike.gif)
+
+# Cyclic Sort 🚵
+
+This pattern describes an interesting approach to deal with problems involving arrays containing numbers in a given range.
+
+For example, take the following problem:
+You are given an unsorted array containing numbers taken from the range 1 to n The array can have duplicates, which means that some numbers will be missing. Find all the missing numbers.
+
+To efficiently solve this problem, we can use the fact that the input array contains numbers in the range of 1 to n. For example, to efficiently sort the array, we can try placing each number in its correct place, i.e., placing 1 at index 0, placing 2 at index 1, and so on. Once we are done with the sorting, we can iterate the array to find all indices that are missing the correct numbers. These will be our required numbers.
+
+![cycl mrbean](./img//mr-bean-bean.gif)
+
+1. [Cyclic Sort](./cyclic_sort/cyclic_sort.ipynb)
+2. [Duplicate Number](./cyclic_sort/duplicate_number.ipynb)
+3. [Find smallest missing number](./cyclic_sort/find_smallest_missing_number.ipynb)
+4. [Missing Number](./cyclic_sort/missing_number.ipynb)
